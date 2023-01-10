@@ -5,6 +5,7 @@ public class Day01
    
     public static void main(String []args)
     {
+       /* java VVIP varibles */
         int x=10;
         char ch='I';
         double d=8.7;
